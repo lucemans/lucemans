@@ -9,5 +9,9 @@
     </a>
     <a href="#">
         <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/repo-card?r=7&package=use-yup&label=lvkdotsh/use-yup" style="width: 49%; height: auto;"/>
+    <a href="#">
+        <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/computer?r=7" style="width: 49%; height: auto;"/>
+    <a href="#">
+        <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/repo-card?r=7&repo=lucemans/github-panels&label=lucemans/github-panels" style="width: 49%; height: auto;"/>
     </a>
 </div>

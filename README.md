@@ -5,9 +5,9 @@
 </pre>
 <div align="center" style="display: flex">
     <a href="#">
-        <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/repo-card?r=6&repo=lvkdotsh/scyllo"/>
+        <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/repo-card?r=7&repo=lvkdotsh/scyllo"/>
     </a>
     <a href="#">
-        <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/repo-card?r=6&repo=lvkdotsh/use-yup"/>
+        <img src="https://frosty-williams-585379.netlify.app/.netlify/functions/repo-card?r=7&repo=lvkdotsh/use-yup"/>
     </a>
 </div>

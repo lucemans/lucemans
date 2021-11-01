@@ -1,7 +1,5 @@
-<h1 align="center"> Luc was here </h1>
-<br>
 <pre align="center">
-    <h4> Welcome to my github account</h4>
+    <h4> Create Epic Shit</h4>
 </pre>
 <div align="center" style="display: flex">
     <a href="https://github.com/lvkdotsh/scyllo">

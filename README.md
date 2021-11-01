@@ -1,5 +1,7 @@
 <pre align="center">
-    <h4> Create Epic Shit</h4>
+    <h4> Create Epic Shit
+<i>~ Luc</i>
+    </h4>
 </pre>
 <div align="center" style="display: flex">
     <a href="https://github.com/lvkdotsh/scyllo">

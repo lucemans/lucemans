@@ -1,7 +1,12 @@
 <pre align="center">
-    <h4> Create Epic Shit
+<b></b>
+<b>Create Epic Shit</b>
 <i>~ Luc</i>
-    </h4>
+
+━━━━━━━━━━━▼━━━━━━━━━━━
+<a href="https://luc.computer">computer</a> / <a href="https://luc.wiki">wiki</a> / <a href="https://luc.contact">contact</a>
+━━━━━━━━━━━▲━━━━━━━━━━━
+<b></b>
 </pre>
 <div align="center" style="display: flex">
     <a href="https://github.com/lvkdotsh/scyllo">

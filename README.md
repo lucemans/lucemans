@@ -1,5 +1,5 @@
 <pre align="center" style="text-align: center">
-<center>
+<center style="margin: 0 auto;">
 <b></b>
 <b>Create Epic Shit</b>
 <i>~ Luc</i>

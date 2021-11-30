@@ -1,4 +1,4 @@
-<pre align="center">
+<pre align="center" style="text-align: center">
 <center>
 <b></b>
 <b>Create Epic Shit</b>

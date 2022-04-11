@@ -1,3 +1,3 @@
 <a href="https://luc.computer" target="_blank">
-<img src="/banner.png" />
+<img src="/github_banner.png" />
 </a>

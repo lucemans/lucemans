@@ -18,3 +18,7 @@ I am [committed](https://github.com/v3xlabs/ghchart) to contributing every day. 
 - [devrel.events](https://devrel.events): A crypto devrel event aggregator.
 - [key.computer](https://key.computer): A key database of the most common key.
 - ...
+
+---
+
+And I got [Photos](https://luc.photos), [Talks](https://luc.show/), [Community](https://luc.community), [Contact](https://luc.contact), [Domains](https://luc.domains/), [Social](https://luc.social/), and more ;)
